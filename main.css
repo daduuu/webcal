@@ -1,0 +1,19 @@
+h1, h2, #d1{
+    font-family: "Times New Roman", sans-serif;
+    text-align: center;
+    padding: 10px;
+    margin: 0px;
+}
+
+#jumbotron1{
+    background-color: white; !important;
+    font-family: "Times New Roman", sans-serif; !important;
+    text-align: center;
+    background-size: cover !important;
+    padding:250px 0 350px 0 !important;
+    margin: 0 !important;
+}
+.gr{
+    padding:50px 0 350px 0;
+    margin: auto;
+}
